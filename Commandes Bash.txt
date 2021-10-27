@@ -1,0 +1,37 @@
+Commandes Bash :
+
+cd -> naviguer dans les fichiers (change directionnary)
+cd .. -> remonter d'un niveau dans les fichiers
+cd ../.. -> remonter de plusieurs niveaux
+ls -> lister les fichiers dans un dossier
+ls -lah -> l = liste a = fichiers cachés h = poids des fichiers lisibles
+mkdir -> créer un dossier
+rm -> suppresion d'un fichier
+rm -rf -> suppression d'un dossier et ses sous-dossiers
+touch -> création d'un fichier
+git init -> création d'un dépot dans le dossier actuel
+git status -> statut du git, staging area avant/lors du commit
+git add bob.txt -> envoi vers le staging area
+git add . -> envoi du dossier courant
+git commit -m "Message du commit" -> nouveau point de sauvegarde
+git config --global --edit -> éditer l'utilisateur 
+git commit --amend --reset-author -> remettre à jour l'utilisateur 
+git log -> check logs, des commits précédents etc
+git clone -> cloner un dépôt en ligne
+git remote add origin -> connexion entre le local et le github
+git push -u origin main
+
+Flow à faire sur Git Bash :
+
+git status
+git add .
+git status
+git commit -m "Le message qui aparaît sur GitHub"
+git status
+git pull -> récupère ce qu'il y a sur le serveur
+git push -> envoi des données
+
+Revenir en arrière :
+
+git reset IDCOMMIT --hard
+git push origin main -f -> Force le retour en arrière mais supprime tous les autres commits
