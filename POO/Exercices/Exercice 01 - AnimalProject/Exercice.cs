@@ -33,7 +33,7 @@ namespace MonPremierProjet
         {
             return this.Prix;
         }
-        public virtual String ToString() // virtual -> permet aux classes enfants d'override la méthode
+        public override String ToString() // virtual -> permet aux classes enfants d'override la méthode
         {
             return "Je suis un Article, mon nom est " + this.Nom + ", mon prix est de " + this.Prix + " euros";
         }

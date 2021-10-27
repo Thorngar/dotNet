@@ -26,7 +26,7 @@ namespace MonPremierProjet
         {
             return this.Age;
         }
-        public virtual String ToString()
+        public override String ToString()
         {
             return "Je suis un animal \n" + "J'ai " + this.Age + " ans";
         }
