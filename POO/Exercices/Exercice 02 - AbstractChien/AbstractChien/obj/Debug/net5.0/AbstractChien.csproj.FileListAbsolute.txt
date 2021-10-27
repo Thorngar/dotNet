@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\obj\Debug\net5.0\AbstractChien.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\obj\Debug\net5.0\AbstractChien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\obj\Debug\net5.0\AbstractChien.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\obj\Debug\net5.0\AbstractChien.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\obj\Debug\net5.0\AbstractChien.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\bin\Debug\net5.0\AbstractChien.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\bin\Debug\net5.0\AbstractChien.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\bin\Debug\net5.0\AbstractChien.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\bin\Debug\net5.0\AbstractChien.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\bin\Debug\net5.0\AbstractChien.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\bin\Debug\net5.0\ref\AbstractChien.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\bin\Debug\net5.0\AbstractChien.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\obj\Debug\net5.0\AbstractChien.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\obj\Debug\net5.0\ref\AbstractChien.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\obj\Debug\net5.0\AbstractChien.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\AbstractChien\AbstractChien\obj\Debug\net5.0\AbstractChien.genruntimeconfig.cache

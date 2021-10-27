@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\bin\Debug\net5.0\POOFinal.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\bin\Debug\net5.0\POOFinal.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\bin\Debug\net5.0\POOFinal.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\bin\Debug\net5.0\POOFinal.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\bin\Debug\net5.0\POOFinal.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\bin\Debug\net5.0\ref\POOFinal.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\bin\Debug\net5.0\POOFinal.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\obj\Debug\net5.0\POOFinal.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\obj\Debug\net5.0\POOFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\obj\Debug\net5.0\POOFinal.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\obj\Debug\net5.0\POOFinal.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\obj\Debug\net5.0\POOFinal.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\obj\Debug\net5.0\POOFinal.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\obj\Debug\net5.0\ref\POOFinal.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\obj\Debug\net5.0\POOFinal.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\ExercicePOOFinal\POOFinal\obj\Debug\net5.0\POOFinal.genruntimeconfig.cache

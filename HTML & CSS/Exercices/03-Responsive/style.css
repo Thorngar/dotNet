@@ -1,0 +1,174 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* .container {
+    max-width: 1024px;
+} */
+
+@media screen and (min-width: 60px) and (max-width: 768px) {
+ 
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(34, 34, 219);
+    height: 130px;
+}
+
+ul {
+    background-color: rgb(146, 250, 146);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    border-bottom: solid black 1px;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+    margin-left: 12px;
+}
+
+.promo {
+    background-color: rgb(36, 36, 165);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 35px;
+}
+
+.content {
+    background-color: rgb(165, 36, 165);
+    border-top: dotted;
+    color: black;
+    height: 180px;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+
+aside {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    background-color: orange;
+    color: black;
+    height: 100px;
+}
+
+
+h1, h2 {
+    margin: 0;
+    padding: 0;
+    margin-left: 12px;
+    margin-top: 2px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    height: 60px;
+}
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 1440px)  {
+
+    header {
+        background-color: rgb(34, 34, 219);
+        height: 130px;
+    }
+    
+    ul {
+        background-color: rgb(146, 250, 146);
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: flex-start; 
+        border-bottom: solid black 1px;
+    }
+    
+    li {
+        display: flex;
+        justify-content: flex-start;
+        border-right: solid black 1px;
+        align-items: center;
+    }
+    
+    a {
+        text-decoration: none;
+        margin: 4px 12px;
+    }
+
+    .main {
+        display: flex;
+        flex-direction: row-reverse;
+        /* width: 100%; */
+    }
+    
+    section {
+        width: 70%;   
+        position: relative;
+    }
+    
+    .promo {
+        background-color: rgb(36, 36, 165);
+        color: white;
+        display: flex;
+        align-items: center;
+        border: none;
+        justify-content: center;
+        box-sizing: border-box;
+        top: 40px;
+        /* left: -40px; AUTRE METHODE QUE LE TRANSFORM TRANSLATEX*/
+        transform: translateX(-50%); /* A PRIVILEGIER */
+        border-radius: 50%;
+        height: 80px;
+        width: 80px;
+        position: absolute;
+    }
+
+    aside {
+        background-color: orange;
+        color: black;
+        width: 30%;
+        height: 150px;
+    }
+
+
+    .content {
+        background-color: rgb(165, 36, 165);
+        color: black;
+        height: 150px;
+    }    
+    h1, h2 {
+        margin: 0;
+        padding: 0;
+        margin-left: 12px;
+    }
+    
+    footer {
+        background-color: black;
+        color: white;
+        height: 60px;
+    }
+    
+    }
+    

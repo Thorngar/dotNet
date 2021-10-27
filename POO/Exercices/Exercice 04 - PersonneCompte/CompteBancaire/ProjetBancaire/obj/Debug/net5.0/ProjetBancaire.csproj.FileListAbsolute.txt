@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\bin\Debug\net5.0\ProjetBancaire.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\bin\Debug\net5.0\ProjetBancaire.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\bin\Debug\net5.0\ProjetBancaire.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\bin\Debug\net5.0\ProjetBancaire.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\bin\Debug\net5.0\ProjetBancaire.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\bin\Debug\net5.0\ref\ProjetBancaire.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\bin\Debug\net5.0\ProjetBancaire.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\obj\Debug\net5.0\ProjetBancaire.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\obj\Debug\net5.0\ProjetBancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\obj\Debug\net5.0\ProjetBancaire.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\obj\Debug\net5.0\ProjetBancaire.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\obj\Debug\net5.0\ProjetBancaire.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\obj\Debug\net5.0\ProjetBancaire.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\obj\Debug\net5.0\ref\ProjetBancaire.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\obj\Debug\net5.0\ProjetBancaire.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\CompteBancaire\ProjetBancaire\obj\Debug\net5.0\ProjetBancaire.genruntimeconfig.cache

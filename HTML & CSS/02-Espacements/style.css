@@ -1,0 +1,25 @@
+div {
+    width: 250px; /*%, pt, em, rem, vw, px*/
+    height: 350px; /*%, pt, em, rem, vh, px*/
+
+    background-color: rebeccapurple;  /*rgb(0,0,0), rgba(0,0,0, 0.4), hsl*/
+    color: white;
+
+    margin: 100px;
+    padding: 15px;
+
+    margin-left: 15px; /* top, right, bottom, left */
+    padding: 50px 10px; /* axe vertical, axe horizontal */
+
+    min-height: 50px;
+
+    margin: 10px 200px 800px 45px; /* top, right, bottom, left */
+
+    margin: 0 auto; /* Met au centre */
+}
+
+/* VW = Viewport width */
+/* VH = Viewport height */
+/* HSL = Teinte, saturation et lumière */
+/* Margin = Marge externe */
+/* Padding = Marge interne */

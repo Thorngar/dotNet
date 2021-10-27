@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>13-Formulaires</title>
+</head>
+<body>
+    <!-- javascript:void(0) -> annule les actions par défaut du formulaire 
+         get -> plus pour la recherche car ça conserve dans l'URL
+         post -> plus sécurisé, plus pour du login/mdp
+    -->
+    <form action="javascript:void(0)" method="post"> 
+        <div>
+            <label for="nom">Votre nom</label>
+            <input type="text" id='nom' name="nom_de_famille" placeholder="Entrez votre nom" value="">
+            <!-- value="" valeur par défaut dans l'inupt -->
+            <!-- name="" pour retrouver via JS, PhP ... -->
+            <!-- placeholder="" nom à l'intérieur de la box -->
+        </div>
+        <div>
+            <input type="number">
+            <input type="color">
+            <input type="time">
+            <input type="date">
+            <input type="email">
+            <input type="password">
+            <input type="range">
+            <input type="file">
+            <input type="month">
+        </div>
+        <div>
+            <label for="isCool">Je valide que ce cours est extrêment bien et que le formateur est un PGM au kicker</label>
+            <input type="checkbox" name="isCool" id="isCool">
+        </div>
+        <div>
+            <h2>Ton animal préféré</h2>
+            <input type="radio" name="animal" id="chien" value="chien">
+            <label for="chien">Chien</label>
+            <input type="radio" name="animal" id="chat" value="chat">
+            <label for="chat">Chat</label>
+            <!-- name="" va lier les inputs entre eux pour le type="radio" pour que ça soit un choix unique -->
+        </div>
+        <div>
+            <label for="text">Mes remarques sur le cours de Sébastien :</label>
+            <textarea name="montexte" id="text" cols="30" rows="10"></textarea>
+        </div>
+        <div>
+            <h2>Choisis une ou tes couleurs favorites :</h2>
+            <select name="color" id="color" >  <!-- id="color" multiple --> 
+                <option value="default" selected disabled>Choissisez une couleur</option>
+                <option value="blue">Bleu</option>
+                <optgroup label="Rouge">
+                    <option value="purple">Pourpre</option>
+                    <option value="blackred">Rouge foncé</option>
+                </optgroup>
+                <!-- optgroup = catégorie -->
+                <!-- <option value="red">Rouge</option> -->
+            </select>
+        </div>
+
+        <button type="submit">Envoyer</button>
+        <button type="reset">Annuler</button>
+    </form>
+</body>
+</html>

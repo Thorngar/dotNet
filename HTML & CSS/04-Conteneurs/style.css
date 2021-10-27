@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: teal;
+}
+
+.wrapper {
+    width: 960px;
+    height: 100vh;
+    margin: 0 auto;
+    background-color: rgb(231, 231, 231);
+    padding: 20px 30px;
+
+    /* Le box-sizing : border-box prend en compte la taille fournie avec le padding. Sans celui-ci, on a 100vh + 20px */
+    box-sizing: border-box;
+}

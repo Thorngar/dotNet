@@ -1,0 +1,190 @@
+body {
+    width: 1200px;
+    background-color: rgb(58, 58, 58);
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.wrapper {
+    background-color: rgb(58, 58, 58);    
+    width: 960px;
+    height: 100vh;
+    margin: 0 auto;
+    box-sizing: border-box;
+    display: block;
+}
+
+header {
+    display: flex;
+    padding: 10px 20px;
+    justify-content:space-between;
+    align-items: center;
+}
+
+header img {
+    border-radius: 50%;
+}
+
+header ul {
+    display: flex;
+    flex-direction: row;
+}
+
+header ul li a {
+    padding: 10px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: yellow;
+}
+
+header ul li a:hover {
+    color: rgb(17, 17, 17);
+}
+
+.firstblock {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.firstblock article {
+    width: 290px;
+    background-color: white;
+    padding-bottom: 15px;
+}
+
+.firstblocktext, .firstblocktext2, .firstblocktext3 {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding-top: 20px;
+    position: relative;
+}
+
+.firstblocktext p, .firstblocktext2 p, .firstblocktext3 p {
+    margin: 10px;
+    padding-bottom: 100px;
+}
+
+.firstblocktext a, .firstblocktext2 a, .firstblocktext3 a {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.firstblocktext h3, .firstblocktext2 h3, .firstblocktext3 h3 {
+    margin: 10px;
+    font-size: 22px;
+    font-weight: 800px;
+}
+
+.button1, .button2, .button3 {
+    background-color: rgb(221, 221, 0);
+    width: 130px;
+    padding: 4px 6px;
+    border: none;
+    display: block;
+    position: absolute;
+    bottom: 20px;
+    transform: translateX(50%);
+    transition: all 0.4s ease-in-out;
+}
+
+.button1 a, .button2 a, .button3 a {
+    display: block;
+}
+
+.button1:hover, .button2:hover, .button3:hover {
+    box-shadow: -1px -1px 8px black;
+    background-color: rgb(0, 0, 0);
+}
+
+.button1:hover a, .button2:hover a, .button3:hover a {
+    color: rgb(221, 221, 0);
+}
+
+.secondblock {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.secondblock h2 {
+    margin: 10px;
+    font-size: 22px;
+    font-weight: 800px;
+    padding-top: 25px;
+}
+
+.secondblock p {
+    margin: 10px;
+}
+
+.secondblock a {
+    text-decoration: none;
+    color: rgb(221, 221, 0);
+}
+
+.secondblocka {
+    display: block;
+    margin: 10px;
+    padding-top: 65px;
+}
+
+.thirdblock {
+    background-color: white;
+    height: 190px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+    margin-top: 20px;
+}
+
+.thirdblock article {
+    padding-top: 40px;
+}
+
+.thirdblock h3 {
+    padding-bottom: 8px;
+    font-size: 22px;
+}
+
+.thirdblock a {
+    text-decoration: none;
+    color: rgb(221, 221, 0);
+    font-size: 18px;
+}
+
+.thirdblock a:hover {
+    color: rgb(17, 17, 17);
+}
+
+footer {
+    margin: 0;
+    padding-top: 15px;
+    padding-bottom: 15px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    font-size: 22px;
+}
+
+footer a {
+    color: rgb(221, 221, 0);
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: rgb(17, 17, 17);
+}
+footer p {
+    padding-bottom: 8px;
+}

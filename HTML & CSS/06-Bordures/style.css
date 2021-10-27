@@ -1,0 +1,25 @@
+.myBox {
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    margin: 50px;
+    border: 10px solid blue;
+
+    /* 
+    border-width: 10px;
+    border-style: dotted;
+    border-color: blue; 
+    = border: 10px solid blue;
+    */
+
+    border-bottom: 50px solid green;
+    border-radius: 8px;
+}
+
+hr {
+    border: none;
+    height: 5px;
+    width: 350px;
+    background-color: red;
+    border-radius: 15px;
+}

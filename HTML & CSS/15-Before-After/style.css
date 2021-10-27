@@ -1,0 +1,51 @@
+body {
+    background-color: #A1A1A1;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+div {
+    width: 960px;
+    background-color: #fff;
+    margin: 50px auto;
+    border-radius: 5px;
+    padding: 50px;
+}
+
+.quote {
+    font-weight: bold;
+    color: red;
+}
+
+
+.quote::before {
+    content: "<";
+    color: blue;
+}
+
+.quote::after {
+    content: ">";
+    color: green;
+}
+
+div h1 {
+    display: inline;
+    font-size: 1.4rem;
+    color: #ec20d5;
+    position: relative;
+}
+
+div h1::before {
+    content: ""; /* Toujours un content pour un before, after */
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background-color: black;
+    bottom: 0;
+    transition: all .4s ease-in-out;
+    transform: scaleX(0);
+}
+
+div h1:hover:before {
+    transform: scaleX(1);
+}

@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\bin\Debug\net5.0\CorrectionHeritage.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\bin\Debug\net5.0\CorrectionHeritage.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\bin\Debug\net5.0\CorrectionHeritage.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\bin\Debug\net5.0\CorrectionHeritage.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\bin\Debug\net5.0\CorrectionHeritage.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\bin\Debug\net5.0\ref\CorrectionHeritage.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\bin\Debug\net5.0\CorrectionHeritage.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\obj\Debug\net5.0\CorrectionHeritage.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\obj\Debug\net5.0\CorrectionHeritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\obj\Debug\net5.0\CorrectionHeritage.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\obj\Debug\net5.0\CorrectionHeritage.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\obj\Debug\net5.0\CorrectionHeritage.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\obj\Debug\net5.0\CorrectionHeritage.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\obj\Debug\net5.0\ref\CorrectionHeritage.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\obj\Debug\net5.0\CorrectionHeritage.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Correction\CorrectionHeritage\obj\Debug\net5.0\CorrectionHeritage.genruntimeconfig.cache

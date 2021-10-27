@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    background-color: #b1b1b1;
+}
+
+ul li{
+    margin-right: 10px;
+    position: relative;
+}
+
+ul li a {
+    padding: 10px 20px;
+    display: block;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+ul li a:hover {
+    background-color: #fff;
+    color: #b1b1b1
+}
+
+ul li ul{
+    display: none;
+    flex-direction: column;
+    padding: 0;
+    position: absolute;
+}
+
+ul > li:hover > ul{
+    display: flex;
+}
+
+ul li ul li{
+    margin-right: 0;
+    white-space: nowrap;
+}
+
+.subMenu ul {
+    right: 0;
+    top: 0;
+    transform: translateX(100%);
+}

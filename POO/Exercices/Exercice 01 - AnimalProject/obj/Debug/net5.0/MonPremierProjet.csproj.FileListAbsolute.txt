@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\bin\Debug\net5.0\MonPremierProjet.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\bin\Debug\net5.0\MonPremierProjet.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\bin\Debug\net5.0\MonPremierProjet.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\bin\Debug\net5.0\MonPremierProjet.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\bin\Debug\net5.0\MonPremierProjet.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\bin\Debug\net5.0\ref\MonPremierProjet.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\bin\Debug\net5.0\MonPremierProjet.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\obj\Debug\net5.0\MonPremierProjet.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\obj\Debug\net5.0\MonPremierProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\obj\Debug\net5.0\MonPremierProjet.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\obj\Debug\net5.0\MonPremierProjet.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\obj\Debug\net5.0\MonPremierProjet.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\obj\Debug\net5.0\MonPremierProjet.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\obj\Debug\net5.0\ref\MonPremierProjet.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\obj\Debug\net5.0\MonPremierProjet.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\MonPremierProjet\obj\Debug\net5.0\MonPremierProjet.genruntimeconfig.cache

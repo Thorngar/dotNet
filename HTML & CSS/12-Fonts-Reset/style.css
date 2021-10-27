@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Nunito";
+    src: url('fonts/Nunito-Regular.ttf') format("truetype");
+}
+
+body {
+    padding: 30px;
+    font-family: 'Nunito', sans-serif;
+}
+
+/* 
+    Font-size de notre HTML est de 16px (cela peut être modifié)
+    Le REM vient récupérer la taille par défaut de notre HTML
+    --> 1rem === 16px
+    --> em vient récuperer la taille de son parent où il y a une taille définie
+    --> div>h1 // div === 15px // h1:2em === 30px 
+*/

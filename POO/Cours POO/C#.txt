@@ -1,0 +1,6 @@
+PDF 1 : https://dotnetfiddle.net/1rgqb7
+PDF 2 : https://dotnetfiddle.net/xYDRn1
+PDF 3 : https://dotnetfiddle.net/dc9vw7 (la récursivité)
+PDF 4 : https://dotnetfiddle.net/1xHltv 
+PDF 5 : https://dotnetfiddle.net/O1iF2A
+	https://dotnetfiddle.net/75DEPw

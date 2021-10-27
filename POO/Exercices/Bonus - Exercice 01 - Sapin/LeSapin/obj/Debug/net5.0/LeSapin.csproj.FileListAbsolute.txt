@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\bin\Debug\net5.0\LeSapin.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\bin\Debug\net5.0\LeSapin.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\bin\Debug\net5.0\LeSapin.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\bin\Debug\net5.0\LeSapin.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\bin\Debug\net5.0\LeSapin.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\bin\Debug\net5.0\ref\LeSapin.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\bin\Debug\net5.0\LeSapin.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\obj\Debug\net5.0\LeSapin.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\obj\Debug\net5.0\LeSapin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\obj\Debug\net5.0\LeSapin.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\obj\Debug\net5.0\LeSapin.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\obj\Debug\net5.0\LeSapin.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\obj\Debug\net5.0\LeSapin.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\obj\Debug\net5.0\ref\LeSapin.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\obj\Debug\net5.0\LeSapin.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Sapin\LeSapin\obj\Debug\net5.0\LeSapin.genruntimeconfig.cache

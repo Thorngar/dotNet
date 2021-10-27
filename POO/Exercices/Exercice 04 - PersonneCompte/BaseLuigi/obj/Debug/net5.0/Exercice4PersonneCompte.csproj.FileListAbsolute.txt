@@ -1,0 +1,32 @@
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.csproj.AssemblyReference.cache
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.AssemblyInfoInputs.cache
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.AssemblyInfo.cs
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.csproj.CoreCompileInputs.cache
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\bin\Debug\net5.0\Exercice4PersonneCompte.exe
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\bin\Debug\net5.0\Exercice4PersonneCompte.deps.json
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\bin\Debug\net5.0\Exercice4PersonneCompte.runtimeconfig.json
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\bin\Debug\net5.0\Exercice4PersonneCompte.runtimeconfig.dev.json
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\bin\Debug\net5.0\Exercice4PersonneCompte.dll
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\bin\Debug\net5.0\ref\Exercice4PersonneCompte.dll
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\bin\Debug\net5.0\Exercice4PersonneCompte.pdb
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.dll
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\obj\Debug\net5.0\ref\Exercice4PersonneCompte.dll
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.pdb
+C:\Users\luigi\Documents\Formation .NET\Introduction POO\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.genruntimeconfig.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\bin\Debug\net5.0\Exercice4PersonneCompte.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\bin\Debug\net5.0\Exercice4PersonneCompte.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\bin\Debug\net5.0\Exercice4PersonneCompte.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\bin\Debug\net5.0\Exercice4PersonneCompte.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\bin\Debug\net5.0\Exercice4PersonneCompte.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\bin\Debug\net5.0\ref\Exercice4PersonneCompte.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\bin\Debug\net5.0\Exercice4PersonneCompte.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\obj\Debug\net5.0\ref\Exercice4PersonneCompte.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\POO\Exercices\Exercice4PersonneCompte\obj\Debug\net5.0\Exercice4PersonneCompte.genruntimeconfig.cache

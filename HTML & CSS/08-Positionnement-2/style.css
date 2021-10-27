@@ -1,0 +1,21 @@
+.box {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    background-color: red;
+}
+
+.container {
+    width: 80%;
+    height: 350px;
+    margin: 0 auto;
+    background-color: teal;
+    display: flex;
+    justify-content: space-evenly;
+    /* center, flex-start(celui par défaut), flex-end, space-between, space-around, space-evenly */
+    align-items: flex-end;
+}
+
+.boxSmall {
+    align-self: center;
+}
