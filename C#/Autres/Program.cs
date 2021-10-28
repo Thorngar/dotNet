@@ -12,27 +12,48 @@ namespace Autres
         /// <seealso cref="System.Console.WriteLine"/>
         /// </summary>
         /// <param name="args"></param>
+
+        public class fonction
+        {
+        private int a = a;
+        private int b = b;
+
+            public fonction(int c)
+            {
+                this.a = a;
+                this.b = b;
+                this.c = a+b;
+            }
+        }
         static void Main(string[] args)
         {
-            Console.WriteLine("Inscrire votre nom : ");
-            string nom = Console.ReadLine();
 
-            Console.WriteLine("Inscrire votre prénom : ");
-            string prenom = Console.ReadLine();
+            Console.WriteLine("Insérez un nombre : ");
+            string a = Console.ReadLine();
+            Console.WriteLine("Insérez un nombre : ");
+            string b = Console.ReadLine();
+            fonction("Le résultat est : " + c);
 
-            int ageTypeNumber = -1;
-            string age;
 
-            while (ageTypeNumber < 0 || ageTypeNumber > 100)
-            {
-                Console.WriteLine("Votre age : ");
-                age = Console.ReadLine();
-                ageTypeNumber = Int32.Parse(age); // int32 = pour un entier // .Parse = int en string
-            }
+            // Console.WriteLine("Inscrire votre nom : ");
+            // string nom = Console.ReadLine();
 
-            Console.WriteLine("Nom : {0} \nPrénom: {1} \nAge: {2}", nom, prenom, ageTypeNumber);
-            Console.WriteLine("Appuyez sur une touche pour fermer le terminal");
-            Console.ReadKey();
+            // Console.WriteLine("Inscrire votre prénom : ");
+            // string prenom = Console.ReadLine();
+
+            // int ageTypeNumber = -1;
+            // string age;
+
+            // while (ageTypeNumber < 0 || ageTypeNumber > 100)
+            // {
+            //     Console.WriteLine("Votre age : ");
+            //     age = Console.ReadLine();
+            //     ageTypeNumber = Int32.Parse(age); // int32 = pour un entier // .Parse = int en string
+            // }
+
+            // Console.WriteLine("Nom : {0} \nPrénom: {1} \nAge: {2}", nom, prenom, ageTypeNumber);
+            // Console.WriteLine("Appuyez sur une touche pour fermer le terminal");
+            // Console.ReadKey();
 
 
             // try 
@@ -45,20 +66,6 @@ namespace Autres
             // }
             // var test = "Hello World !";
             // Console.WriteLine(test);
-
-                        
-            // Console.WriteLine("Inscrire votre âge : ");
-            // int age = Console.Read();
-            // if (age < 0 || age > 100) 
-            // {
-            //     Console.WriteLine("Vous ne pouvez pas rentrer de valeure négative");
-            // } while (age > 0)
-            //     {
-            //         Console.WriteLine("Votre nom est : " + nom + "\n" + "Votre prénom est : " + prenom + "\n" + "Votre âge est de " + age + " ans");
-            //         break;
-            //     } 
-            // Console.WriteLine("Appuyez sur une touche pour fermer le terminal");
-            // Console.ReadKey();
         }
     }
 }

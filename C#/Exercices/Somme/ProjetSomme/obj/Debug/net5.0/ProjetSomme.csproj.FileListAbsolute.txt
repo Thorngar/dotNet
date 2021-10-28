@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\obj\Debug\net5.0\ProjetSomme.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\obj\Debug\net5.0\ProjetSomme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\obj\Debug\net5.0\ProjetSomme.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\obj\Debug\net5.0\ProjetSomme.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\obj\Debug\net5.0\ProjetSomme.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\bin\Debug\net5.0\ProjetSomme.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\bin\Debug\net5.0\ProjetSomme.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\bin\Debug\net5.0\ProjetSomme.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\bin\Debug\net5.0\ProjetSomme.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\bin\Debug\net5.0\ProjetSomme.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\bin\Debug\net5.0\ref\ProjetSomme.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\bin\Debug\net5.0\ProjetSomme.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\obj\Debug\net5.0\ProjetSomme.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\obj\Debug\net5.0\ref\ProjetSomme.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\obj\Debug\net5.0\ProjetSomme.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Exercices\Somme\ProjetSomme\obj\Debug\net5.0\ProjetSomme.genruntimeconfig.cache
