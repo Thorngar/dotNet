@@ -1,0 +1,15 @@
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\bin\Debug\net5.0\Vélo.exe
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\bin\Debug\net5.0\Vélo.deps.json
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\bin\Debug\net5.0\Vélo.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\bin\Debug\net5.0\Vélo.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\bin\Debug\net5.0\Vélo.dll
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\bin\Debug\net5.0\ref\Vélo.dll
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\bin\Debug\net5.0\Vélo.pdb
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\obj\Debug\net5.0\Vélo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\obj\Debug\net5.0\Vélo.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\obj\Debug\net5.0\Vélo.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\obj\Debug\net5.0\Vélo.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\obj\Debug\net5.0\Vélo.dll
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\obj\Debug\net5.0\ref\Vélo.dll
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\obj\Debug\net5.0\Vélo.pdb
+C:\Users\s_11083_devnet\source\repos\Vélo\Vélo\obj\Debug\net5.0\Vélo.genruntimeconfig.cache
