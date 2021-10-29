@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\bin\Debug\net5.0\JoursMois.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\bin\Debug\net5.0\JoursMois.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\bin\Debug\net5.0\JoursMois.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\bin\Debug\net5.0\JoursMois.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\bin\Debug\net5.0\JoursMois.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\bin\Debug\net5.0\ref\JoursMois.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\bin\Debug\net5.0\JoursMois.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\obj\Debug\net5.0\JoursMois.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\obj\Debug\net5.0\JoursMois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\obj\Debug\net5.0\JoursMois.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\obj\Debug\net5.0\JoursMois.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\obj\Debug\net5.0\JoursMois.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\obj\Debug\net5.0\JoursMois.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\obj\Debug\net5.0\ref\JoursMois.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\obj\Debug\net5.0\JoursMois.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JoursMois\JoursMois\obj\Debug\net5.0\JoursMois.genruntimeconfig.cache
