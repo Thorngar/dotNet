@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\obj\Debug\net5.0\Moyenne.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\obj\Debug\net5.0\Moyenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\obj\Debug\net5.0\Moyenne.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\obj\Debug\net5.0\Moyenne.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\obj\Debug\net5.0\Moyenne.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\bin\Debug\net5.0\Moyenne.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\bin\Debug\net5.0\Moyenne.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\bin\Debug\net5.0\Moyenne.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\bin\Debug\net5.0\Moyenne.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\bin\Debug\net5.0\Moyenne.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\bin\Debug\net5.0\ref\Moyenne.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\bin\Debug\net5.0\Moyenne.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\obj\Debug\net5.0\Moyenne.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\obj\Debug\net5.0\ref\Moyenne.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\obj\Debug\net5.0\Moyenne.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Moyenne\Moyenne\obj\Debug\net5.0\Moyenne.genruntimeconfig.cache
