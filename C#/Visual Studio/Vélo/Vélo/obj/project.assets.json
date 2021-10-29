@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s_11083_devnet\\source\\repos\\Vélo\\Vélo\\Vélo.csproj",
+      "projectUniqueName": "C:\\Users\\s_11083_devnet\\Documents\\Formation_NET\\Git-GitHub\\Git-Base\\C#\\Visual Studio\\Vélo\\Vélo\\Vélo.csproj",
       "projectName": "Vélo",
-      "projectPath": "C:\\Users\\s_11083_devnet\\source\\repos\\Vélo\\Vélo\\Vélo.csproj",
+      "projectPath": "C:\\Users\\s_11083_devnet\\Documents\\Formation_NET\\Git-GitHub\\Git-Base\\C#\\Visual Studio\\Vélo\\Vélo\\Vélo.csproj",
       "packagesPath": "C:\\Users\\s_11083_devnet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s_11083_devnet\\source\\repos\\Vélo\\Vélo\\obj\\",
+      "outputPath": "C:\\Users\\s_11083_devnet\\Documents\\Formation_NET\\Git-GitHub\\Git-Base\\C#\\Visual Studio\\Vélo\\Vélo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s_11083_devnet\\AppData\\Roaming\\NuGet\\NuGet.Config"

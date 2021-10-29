@@ -6,7 +6,7 @@ namespace Vélo
     {
         static void Main(string[] args)
         {
-            Vélo Vélo1 = GenerateNewVélo();
+            Program Vélo1 = GenerateNewVélo();
 
             Vélo1.VendreVélo();
 
@@ -21,7 +21,7 @@ namespace Vélo
             // Vélo Vélo1 = new Vélo(Marque, Prix);
             // Console.WriteLine(Vélo1.ToString());
         }
-        public static Vélo GenerateNewVélo()
+        public static Program GenerateNewVélo()
         {
             Console.WriteLine("Entrez la marque de votre vélo : ");
             string Marque = Console.ReadLine();
@@ -29,16 +29,16 @@ namespace Vélo
             Console.WriteLine("Entrez un prix : ");
             int Prix = Int32.Parse(Console.ReadLine());
 
-            return new Vélo(Marque, Prix);
+            return new Program(Marque, Prix);
         }
     }
 
-    class Vélo
+    class Program
     {
         private String Marque;
         private int Prix;
         private Boolean IsVendu;
-        public Vélo(String Marque, int Prix)
+        public Program(String Marque, int Prix)
         {
             this.Marque = Marque;
             this.Prix = Prix;

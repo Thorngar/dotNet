@@ -1,0 +1,15 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\bin\Debug\net5.0\JustePrix.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\bin\Debug\net5.0\JustePrix.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\bin\Debug\net5.0\JustePrix.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\bin\Debug\net5.0\JustePrix.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\bin\Debug\net5.0\JustePrix.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\bin\Debug\net5.0\ref\JustePrix.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\bin\Debug\net5.0\JustePrix.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\obj\Debug\net5.0\JustePrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\obj\Debug\net5.0\JustePrix.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\obj\Debug\net5.0\JustePrix.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\obj\Debug\net5.0\JustePrix.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\obj\Debug\net5.0\JustePrix.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\obj\Debug\net5.0\ref\JustePrix.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\obj\Debug\net5.0\JustePrix.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\JustePrix\JustePrix\obj\Debug\net5.0\JustePrix.genruntimeconfig.cache

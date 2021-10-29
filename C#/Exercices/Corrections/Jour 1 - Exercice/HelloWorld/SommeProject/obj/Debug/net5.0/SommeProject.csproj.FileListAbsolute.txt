@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\bin\Debug\net5.0\SommeProject.exe
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\bin\Debug\net5.0\SommeProject.deps.json
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\bin\Debug\net5.0\SommeProject.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\bin\Debug\net5.0\SommeProject.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\bin\Debug\net5.0\SommeProject.dll
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\bin\Debug\net5.0\ref\SommeProject.dll
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\bin\Debug\net5.0\SommeProject.pdb
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\obj\Debug\net5.0\SommeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\obj\Debug\net5.0\SommeProject.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\obj\Debug\net5.0\SommeProject.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\obj\Debug\net5.0\SommeProject.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\obj\Debug\net5.0\SommeProject.dll
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\obj\Debug\net5.0\ref\SommeProject.dll
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\obj\Debug\net5.0\SommeProject.pdb
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\obj\Debug\net5.0\SommeProject.genruntimeconfig.cache
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProject\obj\Debug\net5.0\SommeProject.csproj.AssemblyReference.cache

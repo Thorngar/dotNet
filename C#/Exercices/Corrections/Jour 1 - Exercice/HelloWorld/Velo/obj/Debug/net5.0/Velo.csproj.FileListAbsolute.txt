@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\bin\Debug\net5.0\Velo.exe
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\bin\Debug\net5.0\Velo.deps.json
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\bin\Debug\net5.0\Velo.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\bin\Debug\net5.0\Velo.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\bin\Debug\net5.0\Velo.dll
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\bin\Debug\net5.0\ref\Velo.dll
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\bin\Debug\net5.0\Velo.pdb
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\obj\Debug\net5.0\Velo.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\obj\Debug\net5.0\Velo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\obj\Debug\net5.0\Velo.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\obj\Debug\net5.0\Velo.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\obj\Debug\net5.0\Velo.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\obj\Debug\net5.0\Velo.dll
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\obj\Debug\net5.0\ref\Velo.dll
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\obj\Debug\net5.0\Velo.pdb
+C:\Users\s_11083_devnet\source\repos\HelloWorld\Velo\obj\Debug\net5.0\Velo.genruntimeconfig.cache

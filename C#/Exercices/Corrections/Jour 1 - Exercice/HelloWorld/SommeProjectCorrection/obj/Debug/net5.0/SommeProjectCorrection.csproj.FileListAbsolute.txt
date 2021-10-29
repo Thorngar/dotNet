@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\bin\Debug\net5.0\SommeProjectCorrection.exe
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\bin\Debug\net5.0\SommeProjectCorrection.deps.json
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\bin\Debug\net5.0\SommeProjectCorrection.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\bin\Debug\net5.0\SommeProjectCorrection.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\bin\Debug\net5.0\SommeProjectCorrection.dll
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\bin\Debug\net5.0\ref\SommeProjectCorrection.dll
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\bin\Debug\net5.0\SommeProjectCorrection.pdb
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\obj\Debug\net5.0\SommeProjectCorrection.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\obj\Debug\net5.0\SommeProjectCorrection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\obj\Debug\net5.0\SommeProjectCorrection.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\obj\Debug\net5.0\SommeProjectCorrection.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\obj\Debug\net5.0\SommeProjectCorrection.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\obj\Debug\net5.0\SommeProjectCorrection.dll
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\obj\Debug\net5.0\ref\SommeProjectCorrection.dll
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\obj\Debug\net5.0\SommeProjectCorrection.pdb
+C:\Users\s_11083_devnet\source\repos\HelloWorld\SommeProjectCorrection\obj\Debug\net5.0\SommeProjectCorrection.genruntimeconfig.cache

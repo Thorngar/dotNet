@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\bin\Debug\net5.0\Jour2.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\bin\Debug\net5.0\Jour2.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\bin\Debug\net5.0\Jour2.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\bin\Debug\net5.0\Jour2.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\bin\Debug\net5.0\Jour2.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\bin\Debug\net5.0\ref\Jour2.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\bin\Debug\net5.0\Jour2.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\obj\Debug\net5.0\Jour2.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\obj\Debug\net5.0\Jour2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\obj\Debug\net5.0\Jour2.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\obj\Debug\net5.0\Jour2.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\obj\Debug\net5.0\Jour2.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\obj\Debug\net5.0\Jour2.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\obj\Debug\net5.0\ref\Jour2.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\obj\Debug\net5.0\Jour2.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour2\Jour2\obj\Debug\net5.0\Jour2.genruntimeconfig.cache
