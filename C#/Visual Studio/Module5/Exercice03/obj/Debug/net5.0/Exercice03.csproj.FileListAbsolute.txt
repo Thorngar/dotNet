@@ -1,0 +1,5 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice03\obj\Debug\net5.0\Exercice03.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice03\obj\Debug\net5.0\Exercice03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice03\obj\Debug\net5.0\Exercice03.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice03\obj\Debug\net5.0\Exercice03.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice03\obj\Debug\net5.0\Exercice03.csproj.CoreCompileInputs.cache

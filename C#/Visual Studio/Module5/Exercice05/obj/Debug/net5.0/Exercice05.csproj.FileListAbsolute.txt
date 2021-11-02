@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\bin\Debug\net5.0\Exercice05.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\bin\Debug\net5.0\Exercice05.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\bin\Debug\net5.0\Exercice05.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\bin\Debug\net5.0\Exercice05.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\bin\Debug\net5.0\Exercice05.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\bin\Debug\net5.0\ref\Exercice05.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\bin\Debug\net5.0\Exercice05.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\obj\Debug\net5.0\Exercice05.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\obj\Debug\net5.0\Exercice05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\obj\Debug\net5.0\Exercice05.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\obj\Debug\net5.0\Exercice05.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\obj\Debug\net5.0\Exercice05.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\obj\Debug\net5.0\Exercice05.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\obj\Debug\net5.0\ref\Exercice05.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\obj\Debug\net5.0\Exercice05.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\Exercice05\obj\Debug\net5.0\Exercice05.genruntimeconfig.cache

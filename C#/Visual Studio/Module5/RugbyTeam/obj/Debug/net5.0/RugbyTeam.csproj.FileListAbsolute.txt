@@ -1,0 +1,15 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\obj\Debug\net5.0\RugbyTeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\obj\Debug\net5.0\RugbyTeam.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\obj\Debug\net5.0\RugbyTeam.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\obj\Debug\net5.0\RugbyTeam.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\bin\Debug\net5.0\RugbyTeam.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\bin\Debug\net5.0\RugbyTeam.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\bin\Debug\net5.0\RugbyTeam.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\bin\Debug\net5.0\RugbyTeam.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\bin\Debug\net5.0\RugbyTeam.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\bin\Debug\net5.0\ref\RugbyTeam.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\bin\Debug\net5.0\RugbyTeam.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\obj\Debug\net5.0\RugbyTeam.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\obj\Debug\net5.0\ref\RugbyTeam.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\obj\Debug\net5.0\RugbyTeam.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Module5\RugbyTeam\obj\Debug\net5.0\RugbyTeam.genruntimeconfig.cache
