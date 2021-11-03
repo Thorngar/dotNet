@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\obj\Debug\net5.0\Technocite.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\obj\Debug\net5.0\Technocite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\obj\Debug\net5.0\Technocite.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\obj\Debug\net5.0\Technocite.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\obj\Debug\net5.0\Technocite.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\bin\Debug\net5.0\Technocite.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\bin\Debug\net5.0\Technocite.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\bin\Debug\net5.0\Technocite.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\bin\Debug\net5.0\Technocite.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\bin\Debug\net5.0\Technocite.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\bin\Debug\net5.0\ref\Technocite.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\bin\Debug\net5.0\Technocite.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\obj\Debug\net5.0\Technocite.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\obj\Debug\net5.0\ref\Technocite.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\obj\Debug\net5.0\Technocite.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour4\Technocite\obj\Debug\net5.0\Technocite.genruntimeconfig.cache
