@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\bin\Debug\net5.0\Destructor.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\bin\Debug\net5.0\Destructor.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\bin\Debug\net5.0\Destructor.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\bin\Debug\net5.0\Destructor.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\bin\Debug\net5.0\Destructor.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\bin\Debug\net5.0\ref\Destructor.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\bin\Debug\net5.0\Destructor.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\obj\Debug\net5.0\Destructor.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\obj\Debug\net5.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\obj\Debug\net5.0\Destructor.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\obj\Debug\net5.0\Destructor.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\obj\Debug\net5.0\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\obj\Debug\net5.0\Destructor.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\obj\Debug\net5.0\ref\Destructor.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\obj\Debug\net5.0\Destructor.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\Destructor\obj\Debug\net5.0\Destructor.genruntimeconfig.cache

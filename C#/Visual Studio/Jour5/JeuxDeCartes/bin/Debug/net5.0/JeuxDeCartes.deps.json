@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JeuxDeCartes/1.0.0": {
+        "runtime": {
+          "JeuxDeCartes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JeuxDeCartes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

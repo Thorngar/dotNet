@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\bin\Debug\net5.0\JeuxDeCartes.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\bin\Debug\net5.0\JeuxDeCartes.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\bin\Debug\net5.0\JeuxDeCartes.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\bin\Debug\net5.0\JeuxDeCartes.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\bin\Debug\net5.0\JeuxDeCartes.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\bin\Debug\net5.0\ref\JeuxDeCartes.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\bin\Debug\net5.0\JeuxDeCartes.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\obj\Debug\net5.0\JeuxDeCartes.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\obj\Debug\net5.0\JeuxDeCartes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\obj\Debug\net5.0\JeuxDeCartes.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\obj\Debug\net5.0\JeuxDeCartes.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\obj\Debug\net5.0\JeuxDeCartes.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\obj\Debug\net5.0\JeuxDeCartes.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\obj\Debug\net5.0\ref\JeuxDeCartes.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\obj\Debug\net5.0\JeuxDeCartes.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour5\JeuxDeCartes\obj\Debug\net5.0\JeuxDeCartes.genruntimeconfig.cache
