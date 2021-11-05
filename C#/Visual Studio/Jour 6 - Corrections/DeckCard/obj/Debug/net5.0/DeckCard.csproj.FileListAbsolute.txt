@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\bin\Debug\net5.0\DeckCard.exe
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\bin\Debug\net5.0\DeckCard.deps.json
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\bin\Debug\net5.0\DeckCard.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\bin\Debug\net5.0\DeckCard.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\bin\Debug\net5.0\DeckCard.dll
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\bin\Debug\net5.0\ref\DeckCard.dll
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\bin\Debug\net5.0\DeckCard.pdb
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\obj\Debug\net5.0\DeckCard.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\obj\Debug\net5.0\DeckCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\obj\Debug\net5.0\DeckCard.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\obj\Debug\net5.0\DeckCard.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\obj\Debug\net5.0\DeckCard.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\obj\Debug\net5.0\DeckCard.dll
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\obj\Debug\net5.0\ref\DeckCard.dll
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\obj\Debug\net5.0\DeckCard.pdb
+C:\Users\s_11083_devnet\source\repos\Module6\DeckCard\obj\Debug\net5.0\DeckCard.genruntimeconfig.cache

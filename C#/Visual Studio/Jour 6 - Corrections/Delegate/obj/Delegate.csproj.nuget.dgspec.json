@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\s_11083_devnet\\Documents\\Formation_NET\\Git-GitHub\\Git-Base\\C#\\Visual Studio\\Jour 6 - Corrections\\Delegate\\Delegate.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\s_11083_devnet\\Documents\\Formation_NET\\Git-GitHub\\Git-Base\\C#\\Visual Studio\\Jour 6 - Corrections\\Delegate\\Delegate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s_11083_devnet\\Documents\\Formation_NET\\Git-GitHub\\Git-Base\\C#\\Visual Studio\\Jour 6 - Corrections\\Delegate\\Delegate.csproj",
+        "projectName": "Delegate",
+        "projectPath": "C:\\Users\\s_11083_devnet\\Documents\\Formation_NET\\Git-GitHub\\Git-Base\\C#\\Visual Studio\\Jour 6 - Corrections\\Delegate\\Delegate.csproj",
+        "packagesPath": "C:\\Users\\s_11083_devnet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s_11083_devnet\\Documents\\Formation_NET\\Git-GitHub\\Git-Base\\C#\\Visual Studio\\Jour 6 - Corrections\\Delegate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\s_11083_devnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\bin\Debug\net5.0\ToolsExo.exe
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\bin\Debug\net5.0\ToolsExo.deps.json
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\bin\Debug\net5.0\ToolsExo.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\bin\Debug\net5.0\ToolsExo.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\bin\Debug\net5.0\ToolsExo.dll
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\bin\Debug\net5.0\ref\ToolsExo.dll
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\bin\Debug\net5.0\ToolsExo.pdb
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\obj\Debug\net5.0\ToolsExo.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\obj\Debug\net5.0\ToolsExo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\obj\Debug\net5.0\ToolsExo.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\obj\Debug\net5.0\ToolsExo.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\obj\Debug\net5.0\ToolsExo.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\obj\Debug\net5.0\ToolsExo.dll
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\obj\Debug\net5.0\ref\ToolsExo.dll
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\obj\Debug\net5.0\ToolsExo.pdb
+C:\Users\s_11083_devnet\source\repos\Module6\ToolsExo\obj\Debug\net5.0\ToolsExo.genruntimeconfig.cache

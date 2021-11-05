@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\bin\Debug\net5.0\MoveAroundConsoleCorrection.exe
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\bin\Debug\net5.0\MoveAroundConsoleCorrection.deps.json
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\bin\Debug\net5.0\MoveAroundConsoleCorrection.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\bin\Debug\net5.0\MoveAroundConsoleCorrection.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\bin\Debug\net5.0\MoveAroundConsoleCorrection.dll
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\bin\Debug\net5.0\ref\MoveAroundConsoleCorrection.dll
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\bin\Debug\net5.0\MoveAroundConsoleCorrection.pdb
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\obj\Debug\net5.0\MoveAroundConsoleCorrection.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\obj\Debug\net5.0\MoveAroundConsoleCorrection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\obj\Debug\net5.0\MoveAroundConsoleCorrection.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\obj\Debug\net5.0\MoveAroundConsoleCorrection.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\obj\Debug\net5.0\MoveAroundConsoleCorrection.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\obj\Debug\net5.0\MoveAroundConsoleCorrection.dll
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\obj\Debug\net5.0\ref\MoveAroundConsoleCorrection.dll
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\obj\Debug\net5.0\MoveAroundConsoleCorrection.pdb
+C:\Users\s_11083_devnet\source\repos\Module6\MoveAroundConsoleCorrection\obj\Debug\net5.0\MoveAroundConsoleCorrection.genruntimeconfig.cache
