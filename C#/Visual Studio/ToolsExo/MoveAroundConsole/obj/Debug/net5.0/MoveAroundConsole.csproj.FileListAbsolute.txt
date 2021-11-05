@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\bin\Debug\net5.0\MoveAroundConsole.exe
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\bin\Debug\net5.0\MoveAroundConsole.deps.json
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\bin\Debug\net5.0\MoveAroundConsole.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\bin\Debug\net5.0\MoveAroundConsole.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\bin\Debug\net5.0\MoveAroundConsole.dll
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\bin\Debug\net5.0\ref\MoveAroundConsole.dll
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\bin\Debug\net5.0\MoveAroundConsole.pdb
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\obj\Debug\net5.0\MoveAroundConsole.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\obj\Debug\net5.0\MoveAroundConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\obj\Debug\net5.0\MoveAroundConsole.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\obj\Debug\net5.0\MoveAroundConsole.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\obj\Debug\net5.0\MoveAroundConsole.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\obj\Debug\net5.0\MoveAroundConsole.dll
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\obj\Debug\net5.0\ref\MoveAroundConsole.dll
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\obj\Debug\net5.0\MoveAroundConsole.pdb
+C:\Users\s_11083_devnet\source\repos\ToolsExo\MoveAroundConsole\obj\Debug\net5.0\MoveAroundConsole.genruntimeconfig.cache
