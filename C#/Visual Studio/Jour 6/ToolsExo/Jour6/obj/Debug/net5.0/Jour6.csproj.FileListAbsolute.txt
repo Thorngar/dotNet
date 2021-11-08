@@ -1,0 +1,32 @@
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\bin\Debug\net5.0\Jour6.exe
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\bin\Debug\net5.0\Jour6.deps.json
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\bin\Debug\net5.0\Jour6.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\bin\Debug\net5.0\Jour6.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\bin\Debug\net5.0\Jour6.dll
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\bin\Debug\net5.0\ref\Jour6.dll
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\bin\Debug\net5.0\Jour6.pdb
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.dll
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\obj\Debug\net5.0\ref\Jour6.dll
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.pdb
+C:\Users\s_11083_devnet\source\repos\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.genruntimeconfig.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\bin\Debug\net5.0\Jour6.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\bin\Debug\net5.0\Jour6.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\bin\Debug\net5.0\Jour6.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\bin\Debug\net5.0\Jour6.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\bin\Debug\net5.0\Jour6.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\bin\Debug\net5.0\ref\Jour6.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\bin\Debug\net5.0\Jour6.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\obj\Debug\net5.0\ref\Jour6.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\ToolsExo\Jour6\obj\Debug\net5.0\Jour6.genruntimeconfig.cache
