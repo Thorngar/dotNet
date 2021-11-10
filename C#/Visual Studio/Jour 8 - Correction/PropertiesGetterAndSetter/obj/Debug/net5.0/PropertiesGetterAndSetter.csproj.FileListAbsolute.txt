@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\bin\Debug\net5.0\PropertiesGetterAndSetter.exe
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\bin\Debug\net5.0\PropertiesGetterAndSetter.deps.json
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\bin\Debug\net5.0\PropertiesGetterAndSetter.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\bin\Debug\net5.0\PropertiesGetterAndSetter.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\bin\Debug\net5.0\PropertiesGetterAndSetter.dll
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\bin\Debug\net5.0\ref\PropertiesGetterAndSetter.dll
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\bin\Debug\net5.0\PropertiesGetterAndSetter.pdb
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\obj\Debug\net5.0\PropertiesGetterAndSetter.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\obj\Debug\net5.0\PropertiesGetterAndSetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\obj\Debug\net5.0\PropertiesGetterAndSetter.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\obj\Debug\net5.0\PropertiesGetterAndSetter.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\obj\Debug\net5.0\PropertiesGetterAndSetter.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\obj\Debug\net5.0\PropertiesGetterAndSetter.dll
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\obj\Debug\net5.0\ref\PropertiesGetterAndSetter.dll
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\obj\Debug\net5.0\PropertiesGetterAndSetter.pdb
+C:\Users\s_11083_devnet\source\repos\Module7\PropertiesGetterAndSetter\obj\Debug\net5.0\PropertiesGetterAndSetter.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\bin\Debug\net5.0\EvaluationCorrection.exe
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\bin\Debug\net5.0\EvaluationCorrection.deps.json
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\bin\Debug\net5.0\EvaluationCorrection.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\bin\Debug\net5.0\EvaluationCorrection.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\bin\Debug\net5.0\EvaluationCorrection.dll
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\bin\Debug\net5.0\ref\EvaluationCorrection.dll
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\bin\Debug\net5.0\EvaluationCorrection.pdb
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\obj\Debug\net5.0\EvaluationCorrection.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\obj\Debug\net5.0\EvaluationCorrection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\obj\Debug\net5.0\EvaluationCorrection.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\obj\Debug\net5.0\EvaluationCorrection.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\obj\Debug\net5.0\EvaluationCorrection.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\obj\Debug\net5.0\EvaluationCorrection.dll
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\obj\Debug\net5.0\ref\EvaluationCorrection.dll
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\obj\Debug\net5.0\EvaluationCorrection.pdb
+C:\Users\s_11083_devnet\source\repos\Module7\EvaluationCorrection\obj\Debug\net5.0\EvaluationCorrection.genruntimeconfig.cache

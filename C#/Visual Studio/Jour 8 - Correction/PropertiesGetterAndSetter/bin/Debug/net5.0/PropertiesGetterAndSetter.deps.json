@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PropertiesGetterAndSetter/1.0.0": {
+        "runtime": {
+          "PropertiesGetterAndSetter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PropertiesGetterAndSetter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

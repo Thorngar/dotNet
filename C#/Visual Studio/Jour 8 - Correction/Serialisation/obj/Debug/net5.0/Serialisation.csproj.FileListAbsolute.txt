@@ -1,0 +1,17 @@
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\bin\Debug\net5.0\Serialisation.exe
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\bin\Debug\net5.0\Serialisation.deps.json
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\bin\Debug\net5.0\Serialisation.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\bin\Debug\net5.0\Serialisation.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\bin\Debug\net5.0\Serialisation.dll
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\bin\Debug\net5.0\ref\Serialisation.dll
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\bin\Debug\net5.0\Serialisation.pdb
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\obj\Debug\net5.0\Serialisation.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\obj\Debug\net5.0\Serialisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\obj\Debug\net5.0\Serialisation.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\obj\Debug\net5.0\Serialisation.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\obj\Debug\net5.0\Serialisation.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\obj\Debug\net5.0\Serialisation.dll
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\obj\Debug\net5.0\ref\Serialisation.dll
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\obj\Debug\net5.0\Serialisation.pdb
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\obj\Debug\net5.0\Serialisation.genruntimeconfig.cache
+C:\Users\s_11083_devnet\source\repos\Module7\Serialisation\bin\Debug\net5.0\Newtonsoft.Json.dll
