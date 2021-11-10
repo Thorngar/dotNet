@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\bin\Debug\net5.0\RoleplayGame.exe
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\bin\Debug\net5.0\RoleplayGame.deps.json
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\bin\Debug\net5.0\RoleplayGame.runtimeconfig.json
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\bin\Debug\net5.0\RoleplayGame.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\bin\Debug\net5.0\RoleplayGame.dll
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\bin\Debug\net5.0\ref\RoleplayGame.dll
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\bin\Debug\net5.0\RoleplayGame.pdb
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\obj\Debug\net5.0\RoleplayGame.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\obj\Debug\net5.0\RoleplayGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\obj\Debug\net5.0\RoleplayGame.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\obj\Debug\net5.0\RoleplayGame.AssemblyInfo.cs
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\obj\Debug\net5.0\RoleplayGame.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\obj\Debug\net5.0\RoleplayGame.dll
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\obj\Debug\net5.0\ref\RoleplayGame.dll
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\obj\Debug\net5.0\RoleplayGame.pdb
+C:\Users\s_11083_devnet\source\repos\SebastienFischer\RoleplayGame\obj\Debug\net5.0\RoleplayGame.genruntimeconfig.cache

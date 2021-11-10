@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\bin\Debug\net5.0\CorrectionRoleplayGame.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\bin\Debug\net5.0\CorrectionRoleplayGame.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\bin\Debug\net5.0\CorrectionRoleplayGame.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\bin\Debug\net5.0\CorrectionRoleplayGame.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\bin\Debug\net5.0\CorrectionRoleplayGame.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\bin\Debug\net5.0\ref\CorrectionRoleplayGame.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\bin\Debug\net5.0\CorrectionRoleplayGame.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\obj\Debug\net5.0\CorrectionRoleplayGame.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\obj\Debug\net5.0\CorrectionRoleplayGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\obj\Debug\net5.0\CorrectionRoleplayGame.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\obj\Debug\net5.0\CorrectionRoleplayGame.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\obj\Debug\net5.0\CorrectionRoleplayGame.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\obj\Debug\net5.0\CorrectionRoleplayGame.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\obj\Debug\net5.0\ref\CorrectionRoleplayGame.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\obj\Debug\net5.0\CorrectionRoleplayGame.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Visual Studio\Jour 8\CorrectionRoleplayGame\obj\Debug\net5.0\CorrectionRoleplayGame.genruntimeconfig.cache
