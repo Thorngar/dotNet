@@ -287,10 +287,40 @@ SELECT last_name+ ' ' + first_name AS 'Les élèves', year_result FROM student;
 
 -- Exercice 2.3.8 --
 
+USE Technocite;
+
 SELECT last_name + ' ' + first_name AS 'Elèves', year_result AS 'Note maximale' FROM student WHERE year_result = (SELECT MAX(year_result) FROM student);
 SELECT MAX(year_result) AS 'Note maximale' FROM student;
-SELECT last_name + ' ' + first_name AS 'Elèves', year_result AS 'Note maximale' FROM student ORDER BY COUNT(*) DESC;
 
+-- Exercice 2.3.9 --
 
+SELECT SUM(year_result) AS 'Somme des résultats' FROM student;
 
+-- Exercice 2.3.10 --
+
+SELECT MIN(year_result) AS 'Note minimiale' FROM student;
+
+-- Exercice 2.3.11 --
+
+SELECT COUNT(student_id) AS 'Nombre de lignes' FROM student;
+
+-- Exercice 2.3.12 --
+
+SELECT login, YEAR(birth_date) AS 'Année de naissance' FROM student WHERE birth_date > '1970' ;
+
+-- Exercice 2.3.13 --
+
+SELECT login, last_name FROM student WHERE LEN(last_name) >= 8;
+
+-- Exercice 2.3.14 --
+
+SELECT UPPER(last_name) AS 'Nom de famille', first_name, year_result FROM student WHERE year_result >= 16 ORDER BY year_result DESC;
+
+-- Exercice 2.3.15 --
+
+SELECT first_name, last_name, login, CONCAT(SUBSTRING(LOWER(first_name), 1, 2), SUBSTRING(LOWER(last_name), 1, 4)) AS 'Nouveau login' FROM student WHERE year_result BETWEEN 6 AND 10;
+
+-- Exercice 2.3.16 --
+
+SELECT first_name, last_name, login, CONCAT(SUBSTRING(LOWER(first_name), 1, 3), (INT(2) OF birth_date)) AS 'Nouveau login' FROM student WHERE year_result LIKE 10 AND year_result LIKE 12 AND year_result LIKE 14;
 
