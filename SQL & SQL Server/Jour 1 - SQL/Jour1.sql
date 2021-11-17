@@ -20,7 +20,7 @@ CREATE TABLE Article
 CREATE TABLE Client
 	(
 		-- Les contraintes d'attributs 
-		Numero			SMALLINT	
+		Numero			SMALLINT						--IDENTITY(1,1) -> va faire un +1 à chaque fois en commençant sur 1
 						CONSTRAINT PK_Client			PRIMARY KEY 
 						CONSTRAINT CK_Client_Numero		CHECK(Numero > 0),
 		Nom				VARCHAR(50)
@@ -81,7 +81,7 @@ EXEC SP_TABLES Commande; -- Montre les tables, à qui elle appartient
 
 -- Les index 
 CREATE INDEX IDX_Client_Ville ON Client(Ville); -- A chaque ajout de client, une nouvelle ville va être stockée et indexée au niveau de la table, très utile pour la recherche
-												-- Celà crée un dictionnaire de données. A ne pas en abuser sinon ça va être un bordel monstre
+												-- Celà crée un dictionnaire de données. A ne pas en abuser sinon ça va être un bordel 
 
 DROP INDEX IDX_Client_Ville ON Client; -- Suppression de l'index												
 	
@@ -95,3 +95,6 @@ VALUES (1, 'Ets Dupont'),(2, 'Technocité');
 
 -- -- SELECT
 SELECT * FROM Client; -- * = TOUS LES CLIENTS
+--> Ne pas spécifier le numéro : utiliser une séquence
+
+-- ALTER TABLE Client ALTER COLUMN Numero IDENTITY(1,1); -> voir la table Client sur la Primary Key
