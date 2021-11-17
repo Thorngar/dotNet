@@ -1,5 +1,0 @@
-C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Autres\bin\Debug\net5.0\publish\Autres.exe
-C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Autres\bin\Debug\net5.0\publish\Autres.dll
-C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Autres\bin\Debug\net5.0\publish\Autres.deps.json
-C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Autres\bin\Debug\net5.0\publish\Autres.runtimeconfig.json
-C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Autres\bin\Debug\net5.0\publish\Autres.pdb
