@@ -322,5 +322,19 @@ SELECT first_name, last_name, login, CONCAT(SUBSTRING(LOWER(first_name), 1, 2), 
 
 -- Exercice 2.3.16 --
 
-SELECT first_name, last_name, login, CONCAT(SUBSTRING(LOWER(first_name), 1, 3), (INT(2) OF birth_date)) AS 'Nouveau login' FROM student WHERE year_result LIKE 10 AND year_result LIKE 12 AND year_result LIKE 14;
+SELECT first_name, last_name, login, CONCAT(SUBSTRING(RIGHT(LOWER(first_name), 3), 1, 3), RIGHT(YEAR('2014' - birth_date), 2)) AS 'Nouveau login' FROM student WHERE year_result IN(10, 12, 14);
+
+-- Exercice 2.3.17 --
+
+SELECT last_name, login, year_result FROM student WHERE last_name LIKE 'D%' OR last_name LIKE 'M%' OR last_name LIKE 'S%' ORDER BY birth_date ASC;
+
+-- Exercice 2.3.18 --
+
+SELECT last_name, login, year_result FROM student WHERE year_result >= 10 AND ((year_result % 2) = 1) ORDER BY year_result DESC;
+
+-- Exercice 2.3.19 --
+
+SELECT last_name AS 'Noms avec plus de 7 lettres' FROM student WHERE LEN(last_name)>=7;
+
+-- Exercice 2.3.20 --
 

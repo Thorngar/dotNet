@@ -103,7 +103,7 @@ BEGIN TRANSACTION Transaction1
 		('4444','Article1', 130, 2, 100),
 		('5294','Article2', 50, 2, 82),
 		('9403','Article3', 87, 2, 30);
-		SAVE TRANSACTION Transaction1; -- CHECKPOINT de la transaction, si première demande INSERT INTO validée
+		SAVE TRANSACTION Transaction1; -- CHECKPOINT de la transaction, si première demande INSERT INTO validée (remettre un COMMIT)
 		INSERT INTO Article(Refart, Designation, Prix, CodeTva, QuantiteStock) -- Simulation d'une erreur
 		VALUES		
 		('2121','Article4', 20, 2, 22),
@@ -151,7 +151,7 @@ CLOSE Cursor_Designation_Article;
 -- 6. Libération de l'espace mémoire
 DEALLOCATE Cursor_Designation_Article;
 
--- Exercice : pour chaque article, noter dans la console la d�signation et le prix sous cette forme :
+-- Exercice : pour chaque article, noter dans la console la désignation et le prix sous cette forme :
 
 -------------------------------
 -- Article <N> : <DESIGNATION>
