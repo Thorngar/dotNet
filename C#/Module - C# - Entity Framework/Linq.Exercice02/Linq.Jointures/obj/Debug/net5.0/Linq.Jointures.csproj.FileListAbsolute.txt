@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\bin\Debug\net5.0\Linq.Jointures.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\bin\Debug\net5.0\Linq.Jointures.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\bin\Debug\net5.0\Linq.Jointures.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\bin\Debug\net5.0\Linq.Jointures.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\bin\Debug\net5.0\Linq.Jointures.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\bin\Debug\net5.0\ref\Linq.Jointures.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\bin\Debug\net5.0\Linq.Jointures.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\obj\Debug\net5.0\Linq.Jointures.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\obj\Debug\net5.0\Linq.Jointures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\obj\Debug\net5.0\Linq.Jointures.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\obj\Debug\net5.0\Linq.Jointures.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\obj\Debug\net5.0\Linq.Jointures.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\obj\Debug\net5.0\Linq.Jointures.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\obj\Debug\net5.0\ref\Linq.Jointures.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\obj\Debug\net5.0\Linq.Jointures.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq.Exercice02\Linq.Jointures\obj\Debug\net5.0\Linq.Jointures.genruntimeconfig.cache

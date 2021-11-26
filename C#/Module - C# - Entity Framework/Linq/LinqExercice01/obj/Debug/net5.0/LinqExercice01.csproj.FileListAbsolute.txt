@@ -1,0 +1,16 @@
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\bin\Debug\net5.0\LinqExercice01.exe
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\bin\Debug\net5.0\LinqExercice01.deps.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\bin\Debug\net5.0\LinqExercice01.runtimeconfig.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\bin\Debug\net5.0\LinqExercice01.runtimeconfig.dev.json
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\bin\Debug\net5.0\LinqExercice01.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\bin\Debug\net5.0\ref\LinqExercice01.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\bin\Debug\net5.0\LinqExercice01.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\obj\Debug\net5.0\LinqExercice01.csproj.AssemblyReference.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\obj\Debug\net5.0\LinqExercice01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\obj\Debug\net5.0\LinqExercice01.AssemblyInfoInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\obj\Debug\net5.0\LinqExercice01.AssemblyInfo.cs
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\obj\Debug\net5.0\LinqExercice01.csproj.CoreCompileInputs.cache
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\obj\Debug\net5.0\LinqExercice01.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\obj\Debug\net5.0\ref\LinqExercice01.dll
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\obj\Debug\net5.0\LinqExercice01.pdb
+C:\Users\s_11083_devnet\Documents\Formation_NET\Git-GitHub\Git-Base\C#\Module - C# - Entity Framework\Linq\LinqExercice01\obj\Debug\net5.0\LinqExercice01.genruntimeconfig.cache

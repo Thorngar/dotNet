@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq.Exercice02", "Linq.Exercice02\Linq.Exercice02.csproj", "{19A45AD6-2945-402D-A160-70135ADCBFD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq.Jointures", "Linq.Jointures\Linq.Jointures.csproj", "{CC5D0C1B-2323-41C8-B7FA-27FDA32A0D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A45AD6-2945-402D-A160-70135ADCBFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A45AD6-2945-402D-A160-70135ADCBFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A45AD6-2945-402D-A160-70135ADCBFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A45AD6-2945-402D-A160-70135ADCBFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5D0C1B-2323-41C8-B7FA-27FDA32A0D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5D0C1B-2323-41C8-B7FA-27FDA32A0D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5D0C1B-2323-41C8-B7FA-27FDA32A0D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5D0C1B-2323-41C8-B7FA-27FDA32A0D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C5AC85-91AE-428F-BBD3-EA0CCBE21900}
+	EndGlobalSection
+EndGlobal

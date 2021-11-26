@@ -1,0 +1,9 @@
+USE ConnectionAdo;
+
+CREATE TABLE Movie
+	(
+		Id INT NOT NULL IDENTITY(1, 1) PRIMARY KEY,
+		Name NVARCHAR(150) NOT NULL,
+		"Year" INT NULL,
+		IsGood BIT NOT NULL
+	);
